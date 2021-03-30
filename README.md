@@ -7,4 +7,4 @@ Will use as a reference to implement following functionality:
 * Implement Controller tests(in progress)
 * Implememnt Service tests
 * Implement Repository tests
-
+* Readme updated
